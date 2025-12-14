@@ -36,7 +36,14 @@ This project aims to:
 
 
 ## Project Files
-- 
+- <a href="https://github.com/Shareef1827/Students-Health-Analysis/blob/main/README.md"> ReadMe File </a>
+- <a href="https://github.com/Shareef1827/Students-Health-Analysis/blob/main/student_depression_dataset.csv"> Student Health Dataset </a>
+- <a href="https://github.com/Shareef1827/Students-Health-Analysis/blob/main/students%20jupyter.ipynb"> Students Jupyter File </a>
+- <a href="https://github.com/Shareef1827/Students-Health-Analysis/blob/main/students%20sql.sql"> Students MySQL File </a>
+- <a href="https://github.com/Shareef1827/Students-Health-Analysis/blob/main/Students%20Health%20Dashboard.pbix"> Students Power BI Dashboard </a>
+<img width="1322" height="742" alt="Dashboard Image" src="https://github.com/user-attachments/assets/0405e5f2-dc60-4ff0-a6be-0c8ec303040f" />
+
+
 ## Key Insights
 ### Univariate Analysis
 - Around 16K students were identified with depression
